@@ -34,4 +34,3 @@ Just run the file through your current report generator.  Reboot the PC after fi
 
 
 -Jim Mirra
-QuickBASIC program that records all phone data from a local PBX serial port.
